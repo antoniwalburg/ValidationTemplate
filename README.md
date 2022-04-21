@@ -13,4 +13,4 @@
 ### Step 3 -> Dowload XAMPP and start apatche and mysql and click admin next to mysql.
 ### Step 4 -> Import database from my repo on phpmyadmin.
 ### Step 5 -> Delte event.preventDefault(); (line 17 javascript)
-### Final Result -> Now after submitting form the data will be on your data base!
+### Final Result -> Now after submitting valid form the data will be on your data base!
