@@ -7,7 +7,9 @@
 ![Zrzut ekranu 2022-04-21 221408](https://user-images.githubusercontent.com/103273798/164545006-124143b8-b2b3-431d-8127-28fee716bd03.png)
 ## 🤖 Mixed after submit
 ![Zrzut ekranu 2022-04-21 221617](https://user-images.githubusercontent.com/103273798/164546093-59ad739d-4412-4d21-9cd0-521253e6a7d8.png)
-## 🤖 If you want to connect it to data base hosted on your localhost follow these 5 steps!
+## 🤖 Another mixed after submit
+![Zrzut ekranu 2022-04-22 004734](https://user-images.githubusercontent.com/103273798/164563759-cff2bb28-fb39-41c6-91ec-0cafa9c7debc.png)
+## 💎 If you want to connect it to data base hosted on your localhost follow these 5 steps!
 ### Step 1 -> Copy connect.php from my repo to your workspace.
 ### Step 2 -> Add action="connect.php" method="post" (line 32 html) 
 ### Step 3 -> Dowload XAMPP and start apatche and mysql and click admin next to mysql.
