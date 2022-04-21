@@ -14,6 +14,7 @@ document.getElementById("buttonSubmit").addEventListener("click", function(event
     if (checkInputs() !== successfulInputsCounterGlobal) {
         event.preventDefault();
     }
+    event.preventDefault();
 });
 
 //User Front Input Validation {16-69}
